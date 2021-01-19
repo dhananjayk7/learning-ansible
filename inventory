@@ -1,2 +1,2 @@
-mysql-server-2
-mysql-server-3
+ec2-user@mysql-server-2
+ec2-user@mysql-server-3
